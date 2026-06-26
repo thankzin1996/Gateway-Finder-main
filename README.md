@@ -97,7 +97,7 @@
 
 ### Clone Repository
 ```bash
-git clone https://github.com/walterwhite-69/Gateway-Finder.git
+git clone https://github.com/thankzin1996/Gateway-Finder.git
 cd Gateway-Finder
 ```
 
